@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="boardsystemensrc"/>
+	<classpathentry kind="src" path="designsystemensrc"/>
+	<classpathentry kind="src" path="softwaresystemensrc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/SoftwareSystems/External JARs/commons-codec-1.10.jar"/>
+	<classpathentry kind="output" path="2015-2016boardsystemen/bin"/>
+</classpath>
